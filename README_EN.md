@@ -13,7 +13,7 @@ Users can send messages to you through your bot, and you can reply directly to t
 - 🔄 **Two-Way Communication** - Easily receive and reply to messages from users
 - 💾 **No Database Required** - Completely stateless design, zero storage costs
 - 🌐 **No Personal Domain Required** - Use the free domain provided by Cloudflare Worker
-- 🚀 **Lightweight Deployment** - Complete setup within minutes
+- 🚀 **Lightweight Deployment** - Complete setup within minutes111
 - 💰 **Zero Running Cost** - Operates within Cloudflare's free plan limits111
 - 🔒 **Secure and Reliable** - Uses official Telegram API and secure tokens
 - 🔌 **Multiple Bot Support** - Register multiple private chat bots with a single deployment
